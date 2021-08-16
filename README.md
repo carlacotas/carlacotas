@@ -16,9 +16,9 @@ I am fascinated by the field of data science. The ability to extract, explore, a
 - CFD software: ANSYS Fluent, COMSOL and OpenFOAM
 
 
-- 🌱 I’m currently learning data science
+🌱 I’m currently learning data science
 
-- 👯 I’m looking to collaborate on data science projects and projects where my hard skills fit
+👯 I’m looking to collaborate on data science projects and projects where my hard skills fit
 
 <!--
 **carlacotas/carlacotas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

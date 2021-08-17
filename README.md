@@ -11,7 +11,7 @@
 
 📚👩‍💻 I am fascinated by the field of data science. The ability to extract, explore, analyze and the possibility of developing knowledge, as well as the application in different fields to propose strategies and appropriate tools for solving real problems. Consequently, I believe that processes when combined with data science contribute to the improvement of projects, processes, products and services.
 
-◽️ In addition, I have great interest in applying my knowledge in engineering to contribute to the development and innovation of processes and products!
+## ◽️ In addition, I have great interest in applying my knowledge in engineering to contribute to the development and innovation of processes and products!
 
 
 

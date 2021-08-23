@@ -1,6 +1,6 @@
 ## Hi there 👋 I am  [Carla](https://carlacotas.github.io/thetechcareergps/), a Chemical Engineer 👩‍🎓 currently in career transition to Data Science 👩‍💻📈📊
 
-<hr>
+<hr size=”5″>
 </br>
 
 👩‍💻🕵️ My professional experience has been in research and development because I feel accomplished in contributing to the solution of society's problems and in the generation of knowledge, applied in the development of new products and processes, as well as improving the existing ones.
@@ -15,7 +15,7 @@
 
 #### ◽️ In addition, I have great interest in applying my knowledge in engineering to contribute to the development and innovation of processes and products!
 
-<hr>
+<hr size=”5″>
 </br>
 
 #### 📌 I have KNOWLEDGE of:
@@ -33,7 +33,7 @@
 
 #### 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-<hr>
+<hr size=”5″>
 </br>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=carlacotas)](https://github.com/yushi1007)

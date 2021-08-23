@@ -1,8 +1,8 @@
 ## Hi there 👋 I am  [Carla](https://carlacotas.github.io/thetechcareergps/), a Chemical Engineer 👩‍🎓 currently in career transition to Data Science 👩‍💻📈📊
 
+<hr>
 </br>
- <hr>
-   
+
 👩‍💻🕵️ My professional experience has been in research and development because I feel accomplished in contributing to the solution of society's problems and in the generation of knowledge, applied in the development of new products and processes, as well as improving the existing ones.
 
    I believe that research 🕵️ related to mathematical modeling and numerical simulation is a way to apply my scientific knowledge related to chemical engineering in solving different real problems. This is an opportunity that can have an impact from the industry to the final consumer.
@@ -15,7 +15,7 @@
 
 #### ◽️ In addition, I have great interest in applying my knowledge in engineering to contribute to the development and innovation of processes and products!
 
-
+<hr>
 </br>
 
 #### 📌 I have KNOWLEDGE of:
@@ -24,6 +24,7 @@
 - CAD 3D software: SolidWorks
 - CFD software: ANSYS Fluent, COMSOL and OpenFOAM
 
+<hr>
 </br>
 
 #### 🌱 I’m currently learning data science
@@ -32,6 +33,7 @@
 
 #### 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
+<hr>
 </br>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=carlacotas)](https://github.com/yushi1007)

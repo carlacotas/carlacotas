@@ -1,4 +1,4 @@
-## Hi there 👋 I am Carla, a Chemical Engineer 👩‍🎓 currently in career transition to Data Science 👩‍💻📈📊.
+## Hi there 👋 I am Carla [a link] (https://github.com/user/repo/blob/branch/other_file.md), a Chemical Engineer 👩‍🎓 currently in career transition to Data Science 👩‍💻📈📊.
 
 
 

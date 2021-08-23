@@ -29,6 +29,8 @@
 
 #### 👯 I’m looking to collaborate on data science projects and, also, projects where my hard skills fit
 
+#### 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+
 </br>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=carlacotas)](https://github.com/yushi1007)

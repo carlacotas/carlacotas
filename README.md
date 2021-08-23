@@ -3,8 +3,6 @@
 <hr style="border:1px solid black"> </hr>
 </br>
 
-![](https://komarev.com/ghpvc/?username=carlacotas&color=blue)
-
 
 
 👩‍💻🕵️ My professional experience has been in research and development because I feel accomplished in contributing to the solution of society's problems and in the generation of knowledge, applied in the development of new products and processes, as well as improving the existing ones.
@@ -42,6 +40,9 @@
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=carlacotas)](https://github.com/yushi1007)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carlacotas&layout=compact)](https://github.com/yushi1007)
+
+
+![](https://komarev.com/ghpvc/?username=carlacotas&color=blue)
 
 <!--
 **carlacotas/carlacotas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

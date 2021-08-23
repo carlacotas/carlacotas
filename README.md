@@ -3,6 +3,10 @@
 <hr style="border:1px solid black"> </hr>
 </br>
 
+![Visitor Count](https://profile-counter.glitch.me/carlacotas/count.svg)
+
+
+
 👩‍💻🕵️ My professional experience has been in research and development because I feel accomplished in contributing to the solution of society's problems and in the generation of knowledge, applied in the development of new products and processes, as well as improving the existing ones.
 
    I believe that research 🕵️ related to mathematical modeling and numerical simulation is a way to apply my scientific knowledge related to chemical engineering in solving different real problems. This is an opportunity that can have an impact from the industry to the final consumer.

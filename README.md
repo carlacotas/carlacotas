@@ -1,6 +1,6 @@
 ## Hi there 👋 I am  [Carla](https://carlacotas.github.io/thetechcareergps/), a Chemical Engineer 👩‍🎓 currently in career transition to Data Science 👩‍💻📈📊
 
-<hr height: 1px; background-color: black>
+-----
 </br>
 
 👩‍💻🕵️ My professional experience has been in research and development because I feel accomplished in contributing to the solution of society's problems and in the generation of knowledge, applied in the development of new products and processes, as well as improving the existing ones.

@@ -1,4 +1,4 @@
-## Hi there 👋 I am  [Carla](carlacotas.github.io/thetechcareergps/), a Chemical Engineer 👩‍🎓 currently in career transition to Data Science 👩‍💻📈📊.
+## Hi there 👋 I am  [Carla](https://carlacotas.github.io/thetechcareergps/), a Chemical Engineer 👩‍🎓 currently in career transition to Data Science 👩‍💻📈📊.
 
 
 

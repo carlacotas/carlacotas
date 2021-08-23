@@ -10,19 +10,19 @@
 
 📚👩‍💻 I am fascinated by the field of data science. The ability to extract, explore, analyze and the possibility of developing knowledge, as well as the application in different fields to propose strategies and appropriate tools for solving real problems. Consequently, I believe that processes when combined with data science contribute to the improvement of projects, processes, products and services.
 
-</br>
+
 
 #### ◽️ In addition, I have great interest in applying my knowledge in engineering to contribute to the development and innovation of processes and products!
 
 
-
+</br>
 #### 📌 I have KNOWLEDGE of:
 - Operating systems: Windows and Linux
 - Programming languages: Matlab, Excel - VBA, Python and Fortran
 - CAD 3D software: SolidWorks
 - CFD software: ANSYS Fluent, COMSOL and OpenFOAM
 
-
+</br>
 #### 🌱 I’m currently learning data science
 
 #### 👯 I’m looking to collaborate on data science projects and, also, projects where my hard skills fit

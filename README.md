@@ -16,6 +16,7 @@
 
 
 </br>
+
 #### 📌 I have KNOWLEDGE of:
 - Operating systems: Windows and Linux
 - Programming languages: Matlab, Excel - VBA, Python and Fortran
@@ -23,6 +24,7 @@
 - CFD software: ANSYS Fluent, COMSOL and OpenFOAM
 
 </br>
+
 #### 🌱 I’m currently learning data science
 
 #### 👯 I’m looking to collaborate on data science projects and, also, projects where my hard skills fit

@@ -3,7 +3,7 @@
 <hr style="border:1px solid black"> </hr>
 </br>
 
-![Visitor Count](https://profile-counter.glitch.me/carlacotas/count.svg)
+![](https://komarev.com/ghpvc/?username=carlacotas&color=blue)
 
 
 

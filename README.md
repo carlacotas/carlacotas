@@ -14,9 +14,8 @@
 
 
 
-#### ◽️ In addition, I have great interest in applying my knowledge in engineering to contribute to the development and innovation of processes and products!
+#### ◽️ In addition, I have great interest in applying my knowledge in engineering to contribute to the development and innovation of processes and products! 🎯🖥️⌨️🏭🌍
 
-<hr height: 1px;>
 </br>
 
 #### 📌 I have KNOWLEDGE of:
@@ -24,8 +23,9 @@
 - **Programming languages:** Matlab, Excel - VBA, Python and Fortran
 - **CAD 3D software:** SolidWorks
 - **CFD software:** ANSYS Fluent, COMSOL and OpenFOAM
+- **Coding skills:** - HTML, CSS, JavaScript and Ruby
 
-<hr height: 1px;>
+
 </br>
 
 #### 🌱 I’m currently learning data science
@@ -34,7 +34,7 @@
 
 #### 💬 If you have any question/feedback, please do not hesitate to reach out to me!
 
-<hr height: 1px;>
+<hr/>
 </br>
 
 [![Anurag’s github stats](https://github-readme-stats.vercel.app/api?username=carlacotas)](https://github.com/yushi1007)

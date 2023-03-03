@@ -18,9 +18,9 @@
 
 </br>
 
-#### 📌 I have KNOWLEDGE of:
+#### 📌 Technical skills:
 - **Operating systems:** Windows and Linux
-- **Programming languages:** Matlab, Excel - VBA, Python and Fortran
+- **Programming languages:** Python, Matlab, Excel - VBA, Python and Fortran
 - **CAD 3D software:** SolidWorks
 - **CFD software:** ANSYS Fluent, COMSOL and OpenFOAM
 - **Coding skills:** - HTML, CSS, JavaScript and Ruby

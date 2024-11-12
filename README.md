@@ -1,4 +1,4 @@
-## Hi there 👋 I am  [Carla](https://carlacotas.github.io/thetechcareergps/), a Chemical Engineer 👩‍🎓 currently in career transition to Data Science 👩‍💻📈📊
+## Hi there 👋 I am  [Carla](https://carlacotas.github.io/thetechcareergps/), a Data Analyst and Data Scientist Enthusiast 👩‍💻📈📊 with main backgroung in Chemical Engineer 👩‍🎓
 
 </br>
 
@@ -14,13 +14,14 @@
 
 
 
-#### ◽️ In addition, I have great interest in applying my knowledge in engineering to contribute to the development and innovation of processes and products! 🎯🖥️⌨️🏭🌍
+#### ◽️ In addition, I have great interest in applying my knowledge in data and engineering to contribute to the development and innovation of processes and products! 🎯🖥️⌨️🏭🌍
 
 </br>
 
 #### 📌 Technical skills:
+- **Data analysis and data science:** MySQL, Microsoft Power BI, Tableau Public, Gretl
 - **Operating systems:** Windows and Linux
-- **Programming languages:** Python, Matlab, Excel - VBA, Python and Fortran
+- **Programming languages:** Python, R, Matlab, Excel - VBA, Python and Fortran
 - **CAD 3D software:** SolidWorks
 - **CFD software:** ANSYS Fluent, COMSOL and OpenFOAM
 - **Coding skills:** - HTML, CSS, JavaScript and Ruby

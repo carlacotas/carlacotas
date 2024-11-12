@@ -29,8 +29,6 @@
 
 </br>
 
-#### 🌱 I’m currently learning data science
-
 #### 👯 I’m looking to collaborate on data related projects and, also, projects where my hard skills fit
 
 #### 💬 If you have any question/feedback, please do not hesitate to reach out to me!
@@ -46,6 +44,8 @@
 
 <!--
 **carlacotas/carlacotas** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+
+#### 🌱 I’m currently learning data science
 
 Here are some ideas to get you started:
 

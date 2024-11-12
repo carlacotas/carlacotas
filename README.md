@@ -1,4 +1,4 @@
-## Hi there 👋 I am  [Carla](https://carlacotas.github.io/thetechcareergps/), a Data Analyst and Data Scientist Enthusiast 👩‍💻📈📊 with main backgroung in Chemical Engineer 👩‍🎓
+## Hi there 👋 I am  [Carla](https://carlacotas.github.io/thetechcareergps/), a Data Analyst and Data Scientist Enthusiast 👩‍💻📈📊 with main background in Chemical Engineer 👩‍🎓
 
 </br>
 

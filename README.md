@@ -10,7 +10,7 @@
 
    I believe in collaborative 👯 research and development between companies, research institutes and universities. Also, I believe in interdisciplinary teamwork to solve the target problems in research projects.
 -->
-📚👩‍💻 I am fascinated by the field of **data analysis, data science and marketing analysis/science**. The ability to extract, explore, analyze and the possibility of developing knowledge, as well as the application in different fields to propose strategies and appropriate tools for solving real problems. Consequently, I believe that processes when combined with data science contribute to the improvement of projects, processes, products and services.
+📈📊👩‍💻 I am fascinated by the field of **data analysis and data science**. The ability to extract, explore, analyze and the possibility of developing knowledge, as well as the application in different fields to propose strategies and appropriate tools for solving real problems. Consequently, I believe that processes when combined with data science contribute to the improvement of projects, processes, products and services.
 
 
 

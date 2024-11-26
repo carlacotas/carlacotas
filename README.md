@@ -22,8 +22,6 @@
 - **Data analysis and data science:** MySQL, Microsoft Power BI, Tableau Public, Gretl
 - **Operating systems:** Windows and Linux
 - **Programming languages:** Python, R, Matlab, Excel - VBA, Python and Fortran
-- **CAD 3D software:** SolidWorks
-- **CFD software:** ANSYS Fluent, COMSOL and OpenFOAM
 - **Coding skills:** - HTML, CSS, JavaScript and Ruby
 
 
